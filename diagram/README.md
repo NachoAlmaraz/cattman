@@ -22,4 +22,4 @@ Se nos presenta una aplicación ganadera, la que quiere registrar los siguientes
 ______
 
 
-![Entity relationship](/diagram/entity-relationship-1.png)
+![Entity relationship](/diagram/entity-relationship-1.svg)
